@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TryWeatherApp/static/css/main.510a630d.css",
+    "main.js": "/TryWeatherApp/static/js/main.181018ea.js",
+    "index.html": "/TryWeatherApp/index.html",
+    "main.510a630d.css.map": "/TryWeatherApp/static/css/main.510a630d.css.map",
+    "main.181018ea.js.map": "/TryWeatherApp/static/js/main.181018ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510a630d.css",
+    "static/js/main.181018ea.js"
+  ]
+}
