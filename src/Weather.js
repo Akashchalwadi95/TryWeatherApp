@@ -9,7 +9,7 @@ function Weather(){
   const [loading,setLoading] = useState(false);
 
 
-  const API_KEY = "7bdcce40d67c68a887187c65da20a7e2";
+  const API_KEY = "7bdcce40dcjhdsjgjshj";
   const fetchWeather=async()=>{
     if(!city.trim()){
       setError("Please Enter City Name");
